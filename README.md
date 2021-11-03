@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Afdul Rohmat
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning Javascript as my programming language. I'm developing capabilities in node js, express js, and mongoDB. I'm preparing to become a MERN stack
+- 👀 I’m interested in Mobile development
+- 🌱 I'm currently learning Javascript and Dart as my programming language and I'm developing my skills in Flutter as a Mobile Developer.
 
 <!---
 AfdulRohmat/AfdulRohmat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
