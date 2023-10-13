@@ -4,6 +4,7 @@ My love for technology and software development is at the core of my identity. I
 - Laravel
 - Nuxt.js 
 - Flutter
+
 which I use daily to craft remarkable digital experiences. These technologies have become my trusted tools for building robust, efficient, and user-friendly software.
 
 In addition to my core expertise, I also have an intermediate-level proficiency with 
@@ -11,7 +12,8 @@ In addition to my core expertise, I also have an intermediate-level proficiency 
 - TypeScript,
 - Kotlin Jetpack Compose,
 - and Next.js 13.
-- This diversity in my skill set allows me to adapt to different project requirements and explore new horizons in software development.
+
+This diversity in my skill set allows me to adapt to different project requirements and explore new horizons in software development.
 
 I believe that software development is not just a job; it's a thrilling journey of constant learning and problem-solving. It's about transforming ideas into reality and making a positive impact on the world. I'm committed to this journey, and I'm excited to share my experiences, knowledge, and projects with the GitHub community.
 
