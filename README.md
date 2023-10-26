@@ -4,11 +4,13 @@ My love for technology and software development is at the core of my identity. I
 - Laravel
 - Nuxt.js 
 - Flutter
+- SQL Database
 
 which I use daily to craft remarkable digital experiences. These technologies have become my trusted tools for building robust, efficient, and user-friendly software.
 
 In addition to my core expertise, I also have an intermediate-level proficiency with 
 - Node.js,
+- MongoDB,
 - TypeScript,
 - Kotlin Jetpack Compose,
 - and Next.js 13.
