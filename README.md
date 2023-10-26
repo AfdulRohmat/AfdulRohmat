@@ -19,7 +19,7 @@ This diversity in my skill set allows me to adapt to different project requireme
 
 I believe that software development is not just a job; it's a thrilling journey of constant learning and problem-solving. It's about transforming ideas into reality and making a positive impact on the world. I'm committed to this journey, and I'm excited to share my experiences, knowledge, and projects with the GitHub community.
 
-Let's connect, collaborate, and innovate together in the world of software development!
+Let's connect, collaborate, and innovate together!
 
 
 <!---
