@@ -15,7 +15,7 @@ In addition to my core expertise, I also have an intermediate-level proficiency 
 - Kotlin Jetpack Compose,
 - Java Spring Boot
 
-If always open to any good oportunities and discussion, i can be contacted via email: afdulrohmat03@gmail.com
+I always open to any good oportunities and discussion, if you interesting to know more about me, you contact me via my email: afdulrohmat03@gmail.com
 
 
 <!---
