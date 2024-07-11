@@ -1,21 +1,22 @@
 Hello, I'm Afdul Rohmat, a software developer with a relentless drive for learning and innovation. 
-I have experience ranging from freelance work to part-time work, and now as a full-time software developer at PT Traspac Makmur Sejahtera.
+I have experiences ranging from freelance work to part-time work, and now as a full-time software developer at PT Traspac Makmur Sejahtera.
 
-Technology that I use in daily routines :
+Technologies that I use in daily routines :
 - Laravel
 - Nuxt.js 
 - Flutter
-- SQL Database
+- Native Android with Java and/or Kotlin
+- SQL Database (SQL, Postgres, SQL Server)
 
 In addition to my core expertise, I also have an intermediate-level proficiency with :
 - Node js,
-- Next js
+- Next js,
 - MongoDB,
 - TypeScript,
 - Kotlin Jetpack Compose,
 - Java Spring Boot
 
-I always open to any good oportunities and discussion, if you interesting to know more about me, you contact me via my email: afdulrohmat03@gmail.com
+I always open to any good oportunities and discussions, if you interesting to know more about me, please contact me via email: afdulrohmat03@gmail.com
 
 
 <!---
