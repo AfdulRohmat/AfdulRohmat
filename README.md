@@ -1,5 +1,5 @@
 Hello, I'm Afdul Rohmat, a software developer with a relentless drive for learning and innovation. 
-I have experiences ranging from freelance work to part-time work, and now as a full-time software developer at PT Traspac Makmur Sejahtera.
+I have experiences ranging from freelance work to part-time work, and now as a full-time software developer at PT Digital Xceleration Nusantara.
 
 Technologies that I use in daily routines :
 - Laravel
